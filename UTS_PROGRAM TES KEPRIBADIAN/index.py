@@ -377,6 +377,6 @@ while True:
             print(deskripsi_ambivert);
 
         dekorasi();
-        print('\n');
+        print("\n");
 
         break;
